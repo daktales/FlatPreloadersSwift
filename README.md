@@ -29,7 +29,7 @@ Call this method to stop the animation of the progress indicator started with a 
 >Returns whether the receiver is animating. Returns`true` if the receiver is animating, otherwise `false`.
 
 
-All preluders comes also with **three default styles**: *Small* (32pt), *Medium* (64pt) and *Big* (128pt) for lazy people `FlatPreloader.Style`.
+All preluders comes also with **three default styles** (`FlatPreloader.Style`) : *Small* (32pt), *Medium* (64pt) and *Big* (128pt) for lazy people.
 
 ## Type A
 ![type A](Media/TypeA.png)
